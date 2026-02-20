@@ -1,0 +1,13 @@
+{
+  "users" {
+    "id":1,
+    "name":"Jayanta Bhunia",
+    "campaign_type" : 1
+  },
+  {
+    "orders" : {
+      "id" : "ORD123456",
+      "text" : "OPD consultation with Dr. Nipun "
+    }
+  }
+}
