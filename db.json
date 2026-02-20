@@ -2,14 +2,14 @@
   "users": [
     {
       "id": 1,
+      "mobile" : "9540011994",
       "name": "Jayanta Bhunia",
-      "campaign_type": 1
+      "campaign_type": 1,
+      "orders": [
+        {
+          "ORD123456": "text": "OPD consultation with Dr. Nipun"
+        }
+      ]
     }
   ],
-  "orders": [
-    {
-      "id": "ORD123456",
-      "text": "OPD consultation with Dr. Nipun"
-    }
-  ]
 }
