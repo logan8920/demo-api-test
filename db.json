@@ -7,7 +7,7 @@
       "campaign_type": 1,
       "orders": [
         {
-          "ORD123456": "text": "OPD consultation with Dr. Nipun"
+          "ORD123456": "OPD consultation with Dr. Nipun"
         }
       ]
     }
